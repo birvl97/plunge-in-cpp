@@ -1,5 +1,7 @@
 # plunge-in-cpp
 
+learn cmake first
+
 Выберите любой алгоритм кэширования из перечисленных ниже
 • ARC (adaptive replacement cache)
 • 2Q (алгоритм двух очередей, дальнейшее развитие LRU)
